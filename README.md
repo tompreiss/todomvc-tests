@@ -8,5 +8,4 @@ npm install
 # Run
 npm run cypress
 
-// in a headless mode
-npm test
+npm test //headless mode
